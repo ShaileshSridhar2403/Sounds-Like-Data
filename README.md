@@ -14,7 +14,7 @@ Datasets used:<br/>
 
 
 The Team:<br/>
-Name:NA<br/>
+Name: NA<br/>
 Shrey Manoj Tiwari<br/>
 Shashank Prabhakar<br/>
 Shailesh Sridhar<br/>
