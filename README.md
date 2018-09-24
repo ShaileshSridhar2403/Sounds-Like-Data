@@ -5,7 +5,7 @@ We'll be focusing on visualization of the data,genre prediction, artist predicti
 
 Sounds Like Data?
 
-Sounds Good.
+Sounds Pretty Good.
 
 Datasets used:
 1.Million Song Dataset: https://labrosa.ee.columbia.edu/millionsong/
