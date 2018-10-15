@@ -3,3 +3,8 @@ https://labrosa.ee.columbia.edu/millionsong/blog
 
 Deep Learning to extract components directly from audio:
 https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
+
+Link for DL and audio analysis: 
+https://github.com/librosa/librosa
+https://github.com/librosa/tutorial 
+https://github.com/tyiannak/pyAudioAnalysis
