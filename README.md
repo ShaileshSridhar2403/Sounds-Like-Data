@@ -1,10 +1,9 @@
-# Sounds-Like-Data
+# Millon-Songs-Dataset? Sounds-Like-Data
 
 Sounds Like Data?<br>
 Sounds Pretty Good.<br>
 
-Sounds Like Data is a project dedicated to building a robust model to predict song popularity.<br>
-
+Sounds Like Data is a project dedicated to building a robust model to predict song popularity.
 To carry out this task we will use several features of a song, such as audio features,user preferences, and lyrics.<br><br>
 
 Datasets used:<br/>
