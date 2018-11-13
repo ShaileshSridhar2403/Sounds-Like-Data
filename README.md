@@ -1,23 +1,20 @@
-#Sounds-Like-Data
+# Millon-Songs-Dataset? Sounds-Like-Data
 
-Sounds Like Data is a project dedicated to analyzing audio data from songs and finding patterns within. 
-We'll be focusing on visualization of the data, genre prediction, artist prediction and so much more.
+Sounds Like Data?<br>
+Sounds Pretty Good.<br>
 
-Sounds Like Data?
-
-Sounds Pretty Good.
+Sounds Like Data is a project dedicated to building a robust model to predict song popularity.
+To carry out this task we will use several features of a song, such as audio features,user preferences, and lyrics.<br><br>
 
 Datasets used:<br/>
-1. Million Song Dataset: https://labrosa.ee.columbia.edu/millionsong/ <br/>
-2. Free Music Archive: https://github.com/mdeff/fma/blob/master/README.md<br/>
-3. Spotify Worldwide daily ranking: https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking<br/><br/><br/>
+1. Million Song Dataset: https://labrosa.ee.columbia.edu/millionsong/
+2. Taste Profile Subset:  https://labrosa.ee.columbia.edu/millionsong/tasteprofile
+3. musiXmatch Dataset: https://labrosa.ee.columbia.edu/millionsong/musixmatch<br/>
 
+Still curious? Check out our literature survey for a more detailed insight into our project.<br/>
 
 The Team:<br/>
 Name: NA<br/>
 Shrey Manoj Tiwari<br/>
 Shashank Prabhakar<br/>
-Shailesh Sridhar<br/>
-
-
-
+Shailesh Sridhar
